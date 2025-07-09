@@ -73,7 +73,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frdiskandr&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="frdiskandr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdiskandr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frdiskandr" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdiskandr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frdiskandr" /> -->
 </div>
 
 ---
