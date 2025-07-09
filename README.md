@@ -15,7 +15,7 @@ Saya sangat tertarik untuk memahami cara kerja teknologi dari level fundamental�
 
 ### 🚀 What I'm Up To
 
-- 🔭 Saat ini sedang mengerjakan dan menyempurnakan **API E-Wallet "Go-Pocket"** sebagai proyek portofolio utama.
+- 🔭 Saat ini sedang internship di **Linkupcareer.id**.
 - 🌱 Sedang mendalami praktik terbaik _performance testing_ dengan **k6** dan arsitektur _microservices_.
 - 💬 Tanya saya tentang: **Go (Fiber), Laravel, REST API Design, Docker, Kubernetes, Nginx, & Konsep Low-Level**.
 - 📫 Cara menghubungi saya: **fariditb159@gmail.com** [cite: 2]
