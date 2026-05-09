@@ -5,24 +5,6 @@
 
 ---
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdiskandr&label=Profile%20views&color=0e75b6&style=flat" alt="frdiskandr" /> </p> -->
-
-Saya seorang pengembang perangkat lunak dengan pengalaman lebih dari 1 tahun dalam membangun aplikasi web modern. Saya memiliki keahlian mendalam dalam pengembangan backend menggunakan **Go** dan **PHP (Laravel)**, serta frontend dengan **React** dan **Vue**.
-
-Saya sangat tertarik untuk memahami cara kerja teknologi dari level fundamental—mulai dari arsitektur CPU dan manajemen memori, hingga sistem terdistribusi seperti **Docker** dan **Kubernetes**. Saat ini, saya fokus untuk menerapkan prinsip-prinsip **Domain-Driven Design (DDD)** untuk membangun sistem yang _robust_ dan _scalable_.
-
----
-
-### 🚀 What I'm Up To
-
-- 🔭 Saat ini sedang internship di **Linkupcareer.id**.
-- 🌱 Sedang mendalami praktik terbaik _performance testing_ dengan **k6** dan arsitektur _microservices_.
-- 💬 Tanya saya tentang: **Go (Fiber), Laravel, REST API Design, Docker, Kubernetes, Nginx, & Konsep Low-Level**.
-- 📫 Cara menghubungi saya: **fariditb159@gmail.com** [cite: 2]
-- ⚡ Fakta unik: Saya percaya bahwa pemahaman konsep seperti Aljabar Linear dan Logika Informatika adalah fondasi untuk menjadi _problem-solver_ yang lebih baik dalam rekayasa perangkat lunak.
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
