@@ -39,18 +39,19 @@ Based in Indonesia.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frdiskandr&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="frdiskandr" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdiskandr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frdiskandr" /> -->
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=frdiskandr&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="frdiskandr's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frdiskandr&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="frdiskandr's Top Languages" height="150" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/faridiskandar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faridiskandar26" height="30" width="40" /></a>
-  <a href="https://frdiskndr.framer.website/" target="blank"><img align="center" src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/faridiskandar26" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://frdiskndr.framer.website/" target="blank"><img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" height="30" width="30" /></a>
+  <a href="mailto:faridiskandar26@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="30" /></a>
 </p>
