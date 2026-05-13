@@ -1,7 +1,8 @@
-<div align="center">
-  <h1>Hi there, I'm Muhammad Faried Iskandar 👋</h1>
-  <h3>A Full-Stack Developer with a deep passion for Backend Engineering & System Architecture.</h3>
-</div>
+# Muhammad Faried Iskandar
+**Full-Stack Developer | Backend & System Architecture Specialist**
+
+Passionate about building scalable, high-performance systems and clean code architectures.
+Based in Indonesia.
 
 ---
 
