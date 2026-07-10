@@ -25,13 +25,13 @@ Full-Stack Developer who loves building scalable systems and clean architectures
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frdiskandr&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frdiskandar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frdiskandr&theme=tokyonight" alt="Repos per Language" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frdiskandr&theme=tokyonight" alt="Most Commit Language" height="150" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frdiskandr&theme=tokyonight" alt="Profile Summary" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frdiskandar&theme=tokyonight" alt="Repos per Language" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frdiskandar&theme=tokyonight" alt="Most Commit Language" height="150" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frdiskandar&theme=tokyonight" alt="Profile Summary" height="170" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frdiskandr&theme=tokyonight&utcOffset=7" alt="Productive Time" height="150" /> -->
 </p>
 
